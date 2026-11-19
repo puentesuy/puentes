@@ -1,0 +1,66 @@
+{
+  "actualizado": "2026-11-19",
+  "convocatorias": [
+    {
+      "titulo": "Erasmus+ KA171 · Movilidad docente con la Universidad de Luxemburgo",
+      "organismo": "Udelar · Servicio de Relaciones Internacionales",
+      "destino": "Luxemburgo",
+      "tipo": "Movilidad docente",
+      "para": ["docentes"],
+      "areas": ["todas"],
+      "resumen": "Estancia de docencia en la Universidad de Luxemburgo, financiada por Erasmus+.",
+      "nota": "La beca no cubre todos los gastos. La documentación se envía en un único PDF a erasmusplus@internacionales.udelar.edu.uy.",
+      "cierre": "2026-11-25",
+      "url": "https://udelar.edu.uy/internacionales/wp-content/uploads/sites/60/2026/10/convocatoria_Programa_Erasmus_movilidad_docente.pdf"
+    },
+    {
+      "titulo": "Programa 720 · Contrapartida de Convenios (1.er semestre 2027)",
+      "organismo": "Udelar · Servicio de Relaciones Internacionales",
+      "destino": "Universidades con convenio vigente",
+      "tipo": "Apoyo a la movilidad",
+      "para": ["docentes", "funcionarios"],
+      "areas": ["todas"],
+      "resumen": "Cofinanciación de movilidades de docentes y funcionarios TAS hacia universidades con las que la Udelar tiene convenio.",
+      "nota": "Las facultades envían las solicitudes al SRI hasta el 30 de noviembre. Consultá en tu facultad: el plazo interno puede ser anterior.",
+      "cierre": "2026-11-30",
+      "url": "https://udelar.edu.uy/internacionales/wp-content/uploads/sites/60/2026/11/convocatoria_Programa-720-contrapartida-de-convenios_1er-semestre_2027-2-1.pdf"
+    },
+    {
+      "titulo": "Becas parciales para maestrías virtuales · Formato Educativo y EUNEIZ",
+      "corto": "Maestrías virtuales",
+      "organismo": "Formato Educativo Escuela de Negocios · European University Gasteiz (España)",
+      "destino": "En línea (virtual o semipresencial)",
+      "tipo": "Maestría",
+      "para": ["egresados"],
+      "areas": ["social"],
+      "resumen": "Maestrías de un año, en español y en varias especialidades, con beca parcial. Difundida por el MEC.",
+      "nota": "Es un programa privado y pago: la beca cubre solo una parte. Consultá el costo final antes de postular.",
+      "cierre": "2026-11-30",
+      "url": "https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/becas-oportunidades-formacion-exterior"
+    },
+    {
+      "titulo": "Erasmus Mundus · Maestrías conjuntas en Europa (ingreso 2027)",
+      "organismo": "Unión Europea · Erasmus+",
+      "destino": "Varios países de Europa",
+      "tipo": "Maestría",
+      "para": ["egresados"],
+      "areas": ["todas"],
+      "resumen": "Maestrías que se cursan en dos o más universidades europeas. La beca cubre matrícula, viajes y un estipendio mensual.",
+      "nota": "Cada programa tiene su plazo. Ejemplos: Euroculture y AMASE (15 de enero de 2027), SpaceMed (21 de enero), EPOG (29 de enero). Confirmalo en la web de cada maestría.",
+      "cierreTexto": "Según el programa, entre diciembre y enero",
+      "url": "https://www.eacea.ec.europa.eu"
+    },
+    {
+      "titulo": "DAAD · Estancias de investigación en Alemania",
+      "organismo": "Servicio Alemán de Intercambio Académico (DAAD)",
+      "destino": "Alemania",
+      "tipo": "Estancia de investigación",
+      "para": ["posgrado", "investigadores"],
+      "areas": ["todas"],
+      "resumen": "Estancias de 2 a 12 meses para doctorandos y posdoctorados en universidades o centros de investigación alemanes.",
+      "nota": "Este cierre es para estancias desde setiembre de 2027. El certificado de idioma onSET es gratuito para postulantes. Consultas: montevideo.udelar@daad-lektorat.de",
+      "cierre": "2027-03-11",
+      "url": "https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/becas-daad"
+    }
+  ]
+}
